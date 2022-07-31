@@ -64,7 +64,7 @@ function newNonPlayableCharacter(x, y) {
             if(callback) {
                 callback()
             }
-        }, time)time, callback
+        }, time)
     }
 
     function stop() {
